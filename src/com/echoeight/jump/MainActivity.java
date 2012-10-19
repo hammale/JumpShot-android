@@ -17,5 +17,4 @@ public class MainActivity extends AndroidApplication {
 	      
 	      initialize(new JumpShot(), cfg);
 	   }
-
 }
